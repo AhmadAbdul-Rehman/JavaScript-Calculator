@@ -22,3 +22,7 @@ buttnsArray.forEach(btn => {
         }
     })
 })
+
+let wordBadge = "Hello Its ahmad Abdulrehamn"
+
+console.log
